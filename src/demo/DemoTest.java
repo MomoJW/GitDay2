@@ -13,8 +13,8 @@ public class DemoTest {
 		
 	}
 	
-	public static void gitHubTwo(int a, int b) {
+	public static void gitHubTimes(int c, int d) {
 		
-		System.out.println(a * b);
+		System.out.println(c * d);
 	}
 }
